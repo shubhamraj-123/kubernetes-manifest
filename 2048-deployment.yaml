@@ -14,7 +14,7 @@ spec:
         app: "frontend"
     spec:
       containers:
-      - image: 975050053925.dkr.ecr.eu-central-1.amazonaws.com/shubham-cicd:latest
+      - image: 975050053925.dkr.ecr.eu-central-1.amazonaws.com/shubham-cicd:3
         imagePullPolicy: Always
         name: "frontend"
         ports:
