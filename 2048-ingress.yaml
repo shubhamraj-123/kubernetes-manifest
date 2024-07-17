@@ -12,7 +12,7 @@ metadata:
     app: 2048-ingress
 spec:
   rules:
-    - host: dev.kumarsuraj.online
+    - host: shubhamrajbarnwal.shop
       http:
           paths:
             - path: /
